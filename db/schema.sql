@@ -2,8 +2,6 @@ CREATE DATABASE burgers_db;
 
 use burgers_db;
 
-use burgers_db;
-
 INSERT INTO burgers (burger_name, devoured, date) VALUES 
 
 ('SPICY BUFFALO BURGER', TRUE, '2012-01-28 00:03:45'),
