@@ -8,7 +8,7 @@ var methodOverride = require('method-override');
 var app = express();
 
 // set port to 3306 
-var PORT = process.env.PORT || 3306;
+var PORT = process.env.PORT || 3000;
 
 
 app.use(express.static(__dirname + '/public'));
