@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/shaunacurran/burger.git"
   },
+  "engines": {
+    "node": "v7.8.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
